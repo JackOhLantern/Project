@@ -17,6 +17,8 @@ public class Calculator {
         System.out.print("Enter second operand: ");
         Input2 = Input.nextDouble();
 
+        System.out.println("This is a test for github");
+
         System.out.println("Calculator Menu");
         System.out.println("---------------");
         System.out.println("1. Addition");
